@@ -1,5 +1,7 @@
 # Cylon.js for Firmata
 
+**js.io fork to enable Websocket relay between different hosts running Cylon.js code and Arduino connection**
+
 Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics, physical computing, and the Internet of Things (IoT).
 
 This module provides an adaptor for microcontrollers such as the Arduino that support the [Firmata protocol][Firmata].
