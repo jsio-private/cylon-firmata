@@ -38,7 +38,7 @@
   },
 
   "dependencies": {
-    "jsio-firmata-remote-board": "git@github.com:jsio-private/jsio-firmata-remote-board.git#642fb4950f3a6a72a34bcb8a70c56df650d92894",
+    "jsio-firmata-remote-board": "git@github.com:jsio-private/jsio-firmata-remote-board.git#1238e4f79bc6b6f7a1f5b361db6401efe82928b8",
     "cylon":      "^1.2.0",
     "cylon-gpio": "^0.27.0",
     "cylon-i2c":  "^0.23.0"
